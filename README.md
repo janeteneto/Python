@@ -16,4 +16,16 @@ Some notable examples in the UK include BBC, Monzo and Revolut; and globally we 
 
 With the rise of data science and machine learning, Python has become a key language in the major tech fields because of its versatility and simplicity, making it a highly demanded skill for businesses and organisations looking to leverage data-driven insights. 
 
+- What kind of salaries can you find for Python skilled professionals? 
+
+According to Indeed, the average salary for Python developers in the UK is around £50,000 per year, while seniors can earn salaries well above £100,000 per year, particularly in areas such as finance, technology, and data science. Entry-level in the UK can be around £30,000 according to Glassdoor, but it also depends on the location and years of experience.
+
+- Why is Python used in DevOps? Why not other language?
+
+Python's simplicity and readability also make it an ideal choice for scripting tasks, which are common in DevOps. Additionally, many popular DevOps tools and frameworks such as Ansible, Puppet, and Jenkins are written in Python, making it a natural choice for automation and integration with these tools.
+
+- What is scripting and how is it different to coding/programming?
+
+Scripting is a type of programming where code is written to automate specific tasks or processes. It typically involves using a scripting language like Python and is often used for automating system administration tasks, such as backups and server configurations. Scripting is usually faster to write and easier to learn than traditional programming, and is often used for smaller, less complex tasks.
+
 - 
