@@ -27,5 +27,3 @@ Python's simplicity and readability also make it an ideal choice for scripting t
 - What is scripting and how is it different to coding/programming?
 
 Scripting is a type of programming where code is written to automate specific tasks or processes. It typically involves using a scripting language like Python and is often used for automating system administration tasks, such as backups and server configurations. Scripting is usually faster to write and easier to learn than traditional programming, and is often used for smaller, less complex tasks.
-
-- 
